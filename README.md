@@ -35,7 +35,7 @@
 
 <p align='center'>
  <a href="christianwillanderson@gmail.com">
-   ![image](https://user-images.githubusercontent.com/9847400/156402952-f154fc31-807d-499d-95c4-8cd2df7c8cdd.png)
+   <img alt="Christian Email" width="25px" src="https://user-images.githubusercontent.com/9847400/156402952-f154fc31-807d-499d-95c4-8cd2df7c8cdd.png" />
   </a>  
   <a href="https://www.linkedin.com/in/christian-anderson-pgh/">
    <img alt="Christian LinkedIn" width="25px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1646238811~hmac=bb2c6e364038039ac7b076bf62a929ff
