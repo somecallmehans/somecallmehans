@@ -34,23 +34,21 @@
 <h2 align='center'> Where I Can Be Found Across the Web </h2>
 
 <p align='center'>
-  <pre>
  <a href="mailto:christianwillanderson@gmail.com">
-   <img alt="Christian Email" width="25px" src="https://user-images.githubusercontent.com/9847400/156404070-7a03bcfc-6fa8-4315-8e4c-b8c3dc5324b3.png" />
+   <img alt="Christian Email" width="25px" src="https://user-images.githubusercontent.com/9847400/156404070-7a03bcfc-6fa8-4315-8e4c-b8c3dc5324b3.png" />&nbsp;
   </a>
   
   <a href="https://www.linkedin.com/in/christian-anderson-pgh/">
-   <img alt="Christian LinkedIn" width="25px" src="https://user-images.githubusercontent.com/9847400/156402952-f154fc31-807d-499d-95c4-8cd2df7c8cdd.png" />
+   <img alt="Christian LinkedIn" width="25px" src="https://user-images.githubusercontent.com/9847400/156402952-f154fc31-807d-499d-95c4-8cd2df7c8cdd.png" />&nbsp;
   </a>
   
   <a href="https://www.instagram.com/somecallmehans/">
-    <img alt="Christian Instagram" width="25px" src="https://user-images.githubusercontent.com/9847400/156403592-a39109e6-6dce-4169-8d84-984d41120d37.png" />
+    <img alt="Christian Instagram" width="25px" src="https://user-images.githubusercontent.com/9847400/156403592-a39109e6-6dce-4169-8d84-984d41120d37.png" />&nbsp;
   </a>
   
   <a href="https://open.spotify.com/user/12181912590?si=db978a2f4c1c43a5">
     <img alt="Christian Spotify" width="25px" src="https://user-images.githubusercontent.com/9847400/156403797-bfa8d4bb-61ed-4f2a-ba37-2142e9f52e6b.png" />
   </a>
-  </pre>
 </p>
 
 
