@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<h2 align='center'> Where I Can Be Found Across the Web </h2>
+<h2 align='center'> How You Can Reach Me </h2>
 
 <p align='center'>
  <a href="mailto:christianwillanderson@gmail.com">
