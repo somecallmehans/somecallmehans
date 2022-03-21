@@ -1,6 +1,12 @@
 <h1 align='center'> Hi! I'm Christian (he/him/his) </h1>
 
-<p align='center'>I am a software engineer with a background in agile project management and information technology, based out of Pittsburgh PA.</p>
+<p align='center'>
+ <ul>
+   <li>I am a software engineer with an interest in front end technologies</li>
+   <li>Formerly, I was a project manager working on an agile team to developer mobile and web applications</li>
+   <li>When I'm not coding I enjoy running/weightlifting, camping, and cooking with friends</li>
+ </ul>
+</p>
 
 <h2 align='center'> Languages/Technologies I Work With </h2>
 
