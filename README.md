@@ -1,11 +1,9 @@
 <h1 align='center'> Hi! I'm Christian (he/him/his) </h1>
 
 <p align='center'>
- <ul>
-   <li>I am a software engineer with an interest in front end technologies</li>
-   <li>Formerly, I was a project manager working on an agile team to developer mobile and web applications</li>
-   <li>When I'm not coding I enjoy running/weightlifting, camping, and cooking with friends</li>
- </ul>
+ :computer: I am a software engineer with an interest in front end technologies  
+ :pencil2: Formerly, I was a project manager working on an agile team to developer mobile and web applications  
+ :sunrise_over_mountains: When I'm not coding I enjoy running/weightlifting, camping, and cooking with friends  
 </p>
 
 <h2 align='center'> Languages/Technologies I Work With </h2>
