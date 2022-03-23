@@ -2,7 +2,7 @@
 
 <p align='center'>
  :computer: I am a software engineer with an interest in front end technologies<br>
- :pencil2: Formerly, I was a project manager working on an agile team to developer mobile and web applications<br>
+ :pencil2: Formerly, I was a project manager working on an agile team to develop mobile and web applications<br>
  :sunrise_over_mountains: When I'm not coding I enjoy running/weightlifting, camping, and cooking with friends<br>
 </p>
 
