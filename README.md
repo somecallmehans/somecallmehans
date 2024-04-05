@@ -12,11 +12,9 @@
  <a href="mailto:christianwillanderson@gmail.com">
    <img alt="Christian Email" width="25px" src="https://user-images.githubusercontent.com/9847400/156404070-7a03bcfc-6fa8-4315-8e4c-b8c3dc5324b3.png" />
   </a>
-  <div>&nbsp;&nbsp;&nbsp;</div>
   <a href="https://www.linkedin.com/in/christian-w-anderson/">
    <img alt="Christian LinkedIn" width="25px" src="https://user-images.githubusercontent.com/9847400/156402952-f154fc31-807d-499d-95c4-8cd2df7c8cdd.png" />
   </a>
-  <div>&nbsp;&nbsp;&nbsp;</div>
   <a href="https://open.spotify.com/user/12181912590?si=db978a2f4c1c43a5">
     <img alt="Christian Spotify" width="25px" src="https://user-images.githubusercontent.com/9847400/156403797-bfa8d4bb-61ed-4f2a-ba37-2142e9f52e6b.png" />
   </a>
