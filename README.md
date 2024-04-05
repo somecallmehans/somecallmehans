@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! I'm Christian (he/him/his) </h1>
+<h1 align='center'> Hi! I'm Christo (he/him/his) </h1>
 
 <p align='center'>
  :computer: I am a software engineer with an interest in front end technologies<br>
