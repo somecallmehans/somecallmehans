@@ -2,7 +2,7 @@
 
 <p align='left'>
  :computer: I am a full stack software developer over at Amper Technologies Inc.<br>
- :pencil2: Previously, I worked as a project manager attached to an agile team developing mobile and web applications<br>
+ :pencil2: Previously, I worked as an agile project manager helping develop mobile and web applications for the world's biggest brands<br>
  :sunrise_over_mountains: When I'm not coding I enjoy biking/weightlifting, camping, and cooking with friends<br>
 </p>
 
