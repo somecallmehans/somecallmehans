@@ -1,8 +1,8 @@
 <h1 align='center'> Hi! I'm Christo (he/him/his) </h1>
 
 <p align='left'>
- :computer: I am a full stack software developer<br>
- :pencil2: Previously, I was a full stack engineer over at Amper Technologies Inc and before that a project manager over at Branding Brand<br>
+ :computer: I am a full stack software developer over at Payscale!<br>
+ :pencil2: Previously, I was engineering over at Amper Technologies Inc and before that a project manager over at Branding Brand<br>
  :sunrise_over_mountains: When I'm not coding I enjoy biking/weightlifting, camping, and cooking with friends<br>
 </p>
 
